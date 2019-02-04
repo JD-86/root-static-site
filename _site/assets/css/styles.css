@@ -1,15 +1,18 @@
 body {
   margin: 0px;
   font-family: "Montserrat", sans-serif;
-  color: #297373; }
+  color: #297373;
+}
 
 section.main {
   background-color: #e5fff5;
-  height: 80vh; }
+  height: 80vh;
+}
 
 section.lower {
   background-color: #b5ffe1;
-  height: 20vh; }
+  height: 20vh;
+}
 
 .logo {
   width: 36vh;
@@ -17,23 +20,28 @@ section.lower {
   top: 30%;
   left: 50%;
   margin-left: -17vh;
-  margin-top: -17vh; }
+  margin-top: -17vh;
+}
 
 .strap {
   position: absolute;
   top: 50%;
   width: 100%;
   text-align: center;
-  font-size: 2.5vh; }
+  font-size: 2.5vh;
+}
 
 .storelogos {
   text-align: center;
   top: 65%;
   position: absolute;
-  width: 100vw; }
+  width: 100vw;
+}
 
 img.storelogo {
-  width: 20vh; }
+  width: 20vh;
+}
 
 .comingsoon {
-  font-size: 2vh; }
+  font-size: 2vh;
+}
